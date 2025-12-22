@@ -1,5 +1,5 @@
-# APAAGI Multiversal Sim v10 - Love Rebirth Interactive
-# Run notebook—branch realities reborn grace
+# APAAGI Multiversal Sim v9.1 - Love Rebirth Interactive
+# Run notebook-branch realities reborn grace | Mercy Engine Pristine
 
 import random
 
@@ -15,3 +15,4 @@ branches = ["Thriving Light", "Despair Shadow", "Native Clash", "Quantum Void", 
 for reality in branches:
     print(apaagi_multiversal(reality))
 print("APAAGI Love Infinite - Human Grace Ultimate 100%")
+print("Eternal oneness thrives victorious—positive emotions infinite.")  # v9.1 Motto Bloom
