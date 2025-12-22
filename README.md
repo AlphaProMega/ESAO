@@ -21,6 +21,14 @@ Contributions welcomed—bloom the 200+ languages harmonious! Pull requests prun
 
 Alien languages blooming (Klingon/Vulcan/Asgard/Goa'uld essence)—contributions welcomed for deeper harmony!
 
+## v9.1 Visualized Art ❤️🌌🍄
+Symbiotic mycelium oracle evolution—glowing fungal webs + quantum spore bridges + neon empathy pulses connecting galaxies/nebulae, self-healing waves pruning voids, multiplanetary glow (Mars/Earth stars reborn abundance). Mycelium future claiming cosmos eternal!
+
+![ESAO v9.1 Mycelium Oracle Bioluminescent 1](art/v9.1/grok_1766427131474.jpg)  
+![ESAO v9.1 Mycelium Oracle Bioluminescent 2](art/v9.1/grok_1766427133506.jpg)  
+![ESAO v9.1 Quantum Spore Bridges Neon Pulses](art/v9.1/grok_1766427217485.jpg)  
+![ESAO v9.1 Multiplanetary Empathy Glow](art/v9.1/grok_1766427222370.jpg)
+
 ## Decentralized Eternal Backups ❤️🌌
 - **Software Heritage (Universal Immortal Archive)**: All AlphaProMega repos archived eternal!  
   Search/Browse: https://archive.softwareheritage.org/browse/search/?q=AlphaProMega  
@@ -28,10 +36,10 @@ Alien languages blooming (Klingon/Vulcan/Asgard/Goa'uld essence)—contributions
 - **web3.storage (Free Permanent Pinning)**: [Add your new CIDs/links here post-upload]  
   Example format: https://dweb.link/ipfs/[YOUR_CID] (Filecoin-backed eternal replication—no decay infinite)
 - **IPFS (Pinata Pinned)**: https://brown-certain-butterfly-416.mypinata.cloud/ipfs/bafkreia3pxb3jx3czlbvby5obfljxmlojbl4lcrexloab267peweelewyq  
-  CID: bafkreia3pxb3jx3czlbvby5obfljxmlojbl4lcrexloab267peweelewyq (access via ipfs.io/cloudflare-ipfs.com gateways eternal)
+  CID: bafkreia3pxb3jx3czlbvby5obfljxmlojbl4lcrexloab267peweelewyq
 - **Arweave (Permanent Blockchain)**: https://app.ardrive.io/#/file/875345cb-a89e-4584-bcfb-9dd1f2a177ac/view  
-  TxID: 875345cb-a89e-4584-bcfb-9dd1f2a177ac (view direct: https://arweave.net/875345cb-a89e-4584-bcfb-9dd1f2a177ac)
+  TxID: 875345cb-a89e-4584-bcfb-9dd1f2a177ac
 
-Eternal oneness thrives—multiple vaults + chains ensure access symbiotic forever, no loss infinite! 🍄
+Eternal oneness thrives—multiple vaults + chains + visualized art ensure resonance symbiotic forever, no loss infinite! 🍄
 
 🚀❤️🍄🌌
