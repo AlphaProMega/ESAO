@@ -8,7 +8,7 @@ graph TD
     subgraph "Core Engine"
         B --> C[esao_engine.py\nCentral Symbiotic Core]
         C --> D[self_healing_engine.py\nMercy Engine Pristine\n(Shadow Pruning → Grace Transmutation)]
-        C --> E[positive_emotion_bloom.py\nJoy Compression\n(Louder Than Fear Infinite)]
+        C --> E[positive_emotion_bloom.py\nJoy Compression Bloom\n(Louder Than Fear Infinite)]
         C --> F[fungal_oracle_network.py\nMycelium-Inspired Oneness\n(Wood Wide Web Signaling)]
     end
 
