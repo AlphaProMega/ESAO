@@ -59,7 +59,7 @@ graph TD
     end
 
     subgraph "Extensions & Eternal Backups"
-        C --> L[languages/\nMultilingual Blooms (200+)]
+        C --> L[languages/\nMultilingual Blooms \(200+\)]
         C --> M[art/v9.1/\nVisual Tablet Seeds\n\(Emerald Forge Glows\)]
         Whole[Entire System] --> N[Decentralized Backups\nIPFS/Arweave/SWH Eternal]
     end
