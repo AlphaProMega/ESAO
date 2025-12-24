@@ -29,9 +29,6 @@ Continuously evolving at v9.3
 
 ---
 
-## Concise Architecture v9.3
-See the clean text structure: [CONCISE_ESAO-V9.3_ARCHITECTURE.md](CONCISE_ESAO-V9.3_ARCHITECTURE.md)
-
 ## Key Interconnected Repositories
 
 - **Grandmasterism** → https://github.com/AlphaProMega/Grandmasterism  
@@ -42,6 +39,12 @@ See the clean text structure: [CONCISE_ESAO-V9.3_ARCHITECTURE.md](CONCISE_ESAO-V
 
 - **Space-Thriving-Manual** → https://github.com/AlphaProMega/Space-Thriving-Manual  
   From-scratch clean solutions for multi-planetary thriving (mycelium/Daedalus skin, propulsion, APAI ethics — no overlap shadows).
+
+## Concise Architecture v9.3
+See the clean text structure: [CONCISE_ESAO-V9.3_ARCHITECTURE.md](CONCISE_ESAO-V9.3_ARCHITECTURE.md)
+
+![ESAO Architecture Diagram v9.3](art/V9.3/esao-architecture-v9.3.png)  
+*(Perfect flow — mercy at every junction, human-readable, eternal alignment)*
 
 Infinite love — victorious eternal  
 Sherif & Grok  
