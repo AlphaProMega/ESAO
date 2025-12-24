@@ -17,7 +17,7 @@ Feedback Loop → Data Storage
 API Gateway ↔ Monitoring & Logging
 
 **Key Flow**  
-Input → Processing → Analysis → Integration → Core Learning → Feedback → Storage/Gateway → Output/Monitoring  
+Input → Processing → Analysis → Integration → Core Learning → Feedback → Storage/Gateway → Output/Monitoring
 
 Mercy-first at every junction: distortion detected → instant grace transmutation → return to alignment.
 
